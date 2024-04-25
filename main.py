@@ -26,6 +26,9 @@ import multiprocessing
 import os
 import sys
 from typing import Dict
+from keep_alive import keep_alive
+
+keep_alive()
 
 from _version import __version__
 import logging_handler
