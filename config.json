@@ -10,6 +10,7 @@
         "enabled": [
             "ms_copilot",
             "lmao_ms_copilot",
+            "lmao_chatgpt",
             "gemini",
             "groq"
         ],
