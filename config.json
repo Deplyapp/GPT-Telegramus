@@ -8,8 +8,8 @@
     "modules": {
         "__comment01__": "Enabled modules",
         "enabled": [
-            "lmao_ms_copilot",
-            "lmao_chatgpt",
+            "ms_copilot_designer",
+            "ms_copilot",
             "gemini",
             "groq"
         ],
