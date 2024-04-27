@@ -8,7 +8,6 @@
     "modules": {
         "__comment01__": "Enabled modules",
         "enabled": [
-            "ms_copilot",
             "lmao_ms_copilot",
             "lmao_chatgpt",
             "gemini",
